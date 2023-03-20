@@ -2,7 +2,7 @@ node('built-in')
 {
     stage('Continuousmaster Download') 
 	{
-    git 'https://github.com/sunildevops77/maven.git'
+    git 'https://github.com/khansaab-danish/Jenkins_multiBranch14.git'
 	}
     stage('Continuousmaster Build') 
 	{
